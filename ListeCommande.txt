@@ -12,6 +12,15 @@ git reset HEAD^ renomer l'avant dernier commit
 git reset HEAD^^ renomer l'avant l'avant dernier commit
 git reset HEAD~3 renomer l'avant l'avant l'avant dernier commit
 git reset --hard HEAD^ supprimer commit avec les modification
+
+Github connexion ssh
+*******************
+
+generation de la clée avec : ssh-keygen -t rsa
+ (generation dans root/.ssh/id_rsa)
+decrypter la clé id_rsa avec cat .ssh/id_rsa => copier coller dans gitub
+update l'url du repo ( url ssh )  
+
  
 Linux
 ************
