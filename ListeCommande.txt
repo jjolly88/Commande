@@ -1,0 +1,20 @@
+Git
+**************
+
+git init => initialisation depot
+git checkout origin/master -B feature/KB => creation d'une branche à partir de master
+
+git branch -D => Supprimer une branch
+git remote add origin depo => spécifier un depot
+git remote -v => voir le depot 
+git remote show origin=> voir le detail du repo
+git reset HEAD^ renomer l'avant dernier commit
+git reset HEAD^^ renomer l'avant l'avant dernier commit
+git reset HEAD~3 renomer l'avant l'avant l'avant dernier commit
+git reset --hard HEAD^ supprimer commit avec les modification
+ 
+Linux
+************
+mkdir => Créer un repertoir
+touch => créer un fichier 
+
