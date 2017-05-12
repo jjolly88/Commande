@@ -24,6 +24,10 @@ update l'url du repo ( url ssh )
  
 Linux
 ************
+Installer curl et php5 => apt-get installe curl php5-cli
+Installer composer => curl -sS https://getcomposer.org/installer | php
+Installer symfony => symfony new nom_project 2.8
+
 mkdir => Créer un repertoir
 touch => créer un fichier 
 
